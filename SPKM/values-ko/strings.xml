@@ -1,6 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <!--Author: SmgKhOaRn <smgkhoarn@gmail.com>-->
-    <!--Official KA strings by Crowdin translators-->
+    <!--Author: SmgKhOaRn <smgkhoarn@protonmail.com>-->
     
     <string name="checking_info">정보를 확인하는 중 … </string>
     <string name="checking_root">루트 권한을 확인하는 중 … </string>
