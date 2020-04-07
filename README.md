@@ -11,4 +11,4 @@ SmartPack 앱들을 위한 한국어 번역 프로젝트입니다.</br>
 <b>Script Manager Git</b>: https://github.com/SmartPack/ScriptManager.git</br>
 <b>Screen Color Control Git</b>: https://github.com/SmartPack/ScreenColorControl.git</br>
 
-<b>All credits go to Sunil Paul Mathew (SmartPack developer) and the original "Kernel Adiutor" developer.</b>
+<b>All credits go to @sunilpaulmathew, the developer of SmartPack apps.</b>
