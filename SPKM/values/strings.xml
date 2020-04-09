@@ -8,6 +8,7 @@
     <string name="no_root">No root</string>
     <string name="no_busybox">No busybox</string>
     <string name="open">Open %s</string>
+    <string name="copyright" translatable="false">&#169;SmartPack Projects</string>
 
     <!-- Security -->
     <string name="password">Password</string>
@@ -110,6 +111,7 @@
     <string name="reset">Reset</string>
     <string name="restore">Restore</string>
     <string name="restore_sure_message">Are you sure to restore %s?</string>
+    <string name="cluster_prime" translatable="false">Prime</string>
     <string name="cluster_big" translatable="false">big</string>
     <string name="cluster_little" translatable="false">LITTLE</string>
     <string name="deep_sleep">Deep sleep</string>
@@ -181,6 +183,7 @@
     <string name="sync_threshold_summary">When CPU loading crosses the preset threshold, the current CPU is raised to this frequency.</string>
     <string name="input_interval">Input Interval</string>
     <string name="input_interval_summary">Minimum interval a CPU is boosted when input is detected.</string>
+    <string name="sched_boost_Input">Sched Boost On Input</string>
     <string name="input_boost_freq">Input Boost Frequency</string>
     <string name="input_boost_freq_core">Input Boost Frequency Core %d</string>
     <string name="input_boost_freq_summary">CPU frequency to be boosted to this frequency upon input detection.</string>
@@ -197,7 +200,7 @@
     <string name="dyn_stune_boost">Dynamic Stune Boost</string>
     <string name="stune_boost_ms">Stune Boost Duration</string>
     <string name="stune_boost_sett">Stune Boost Settings</string>
-    <string name="stune_boost_sett_summary">Enable to get access to advanced stune boost settings.</string>
+    <string name="stune_boost_sett_summary">Show advanced stune boost settings</string>
     <string name="powerhal_tunables">Power HAL Tunables</string>
 
     <!-- CPU Input Boost -->
@@ -850,6 +853,7 @@
     <string name="lease_break_time_summary">The grace period that the kernel grants to a process holding a file lease after it has sent a signal to that process notifying it that another process is waiting to open the file.</string>
     <string name="auto_sync">Auto-Sync Data</string>
     <string name="auto_sync_summary">Allow apps to automatically refresh data.\nPlease Note: It will be applied, irrespective of your on-boot settings.</string>
+    <string name="cpuset">CPU Sets</string>
 
     <!-- Performance Tweaks -->
     <string name="spectrum">Performance Tweaks</string>
@@ -907,9 +911,7 @@
     <string name="sure_message">Are you sure to flash %s?</string>
     <string name="select_question">Select %s?</string>
     <string name="wrong_extension">Please select a file with %s extension.</string>
-    <string name="empty_flasher_log">It seems like flashing is failed!</string>
     <string name="save_log">Save Log</string>
-    <string name="share_log">In order to fix this issue, please consider sharing the log file created at \'%s\' with the developer of this app.\nDo you want to share it now?</string>
 
     <!-- Build prop Editor -->
     <string name="add">Add</string>
@@ -921,6 +923,7 @@
     <string name="key_empty">Key can\'t be empty!</string>
 
     <!-- Profile -->
+    <string name="apply">Apply</string>
     <string name="apply_on_boot_not_available">In profiles mode your changes won\'t have an impact on apply on boot.</string>
     <string name="profile_warning">Everything you change here is going to be saved to your profile. But attention! Your settings will also get applied, but won\'t get saved to apply on boot.</string>
     <string name="no_changes">No changes made!</string>
@@ -997,8 +1000,6 @@
     <string name="turn_off">Turn Off</string>
     <string name="backing_up">Backing up</string>
     <string name="flashing">Flashing</string>
-    <string name="flashing_title">Flashing %s</string>
-    <string name="flashing_progress">Flashing in Progress!</string>
     <string name="restoring">Restoring</string>
     <string name="reset_settings">Reset App</string>
     <string name="reset_settings_summary">Reset User Settings</string>
