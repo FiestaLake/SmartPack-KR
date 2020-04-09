@@ -117,6 +117,6 @@
     <string name="update_channel_summary">여기에-url을-입력하세요</string>
     <string name="uptodate_message">축하합니다! 최신 버젼을 사용하고 있습니다.</string>
     <string name="version">버젼</string>
-    <string name="wrong_extension">%s 확장이 있는 파일을 선택해주세요.</string>
+    <string name="wrong_extension">%s 확장자를 가진 파일을 선택해주세요.</string>
     <string name="yes">예</string>
 </resources>
