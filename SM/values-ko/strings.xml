@@ -48,7 +48,7 @@
     <string name="press_back">나가려면 뒤로가기 버튼을 다시 누르세요</string>
     <string name="report_issue">문제 제출하기</string>
     <string name="save">저장</string>
-    <string name="script_exists">%s(이)라는 이름의 스크립트는 이미 존재합니다! 취소</string>
+    <string name="script_exists">%s(이)라는 이름의 스크립트는 이미 존재합니다!</string>
     <string name="select_question">%s을(를) 선택하실건가요?</string>
     <string name="share">공유</string>
     <string name="shared_by">%s/Script Manager 공유</string>
@@ -61,6 +61,6 @@
     <string name="update_available_summary">%s\n\n**주의: 앱을 다운로드하고 수동으로 업데이트하세요!**</string>
     <string name="wrong_extension">%s 확장자를 가진 파일을 선택해주세요.</string>
     <string name="welcome_message"><b>Script Manager에 오신 것을 환영합니다</b>: 쉘 스크립트들을 추가하고, 불러오고, 수정하고, 공유하고, 쉽게 내보내는 어플리케이션.\n\n*** <b>주의</b> ***\n이 앱은 여러분의 기기를 망가뜨릴 수 있을 정도로 강력합니다. 이 앱의 개발자는 여러분의 기기에 문제가 생기더라도 책임지지 않습니다.</string>
-    <string name="wrong_script">%s은(는) 적절한 스크립트가 아닙니다! 취소.</string>
+    <string name="wrong_script">%s은(는) 적절한 스크립트가 아닙니다!</string>
     <string name="yes">예</string>
 </resources>
