@@ -29,7 +29,7 @@
     <string name="enabled">활성화</string>
     <string name="enabling">%s을(를) 활성화하는 중</string>
     <string name="export">내보내기</string>
-    <string name="export_summary">%s로 추출되었습니다! 공유하고 싶으신가요?</string>
+    <string name="export_summary">가 %s로 추출되었습니다! 공유하고 싶으신가요?</string>
     <string name="export_bundle_summary">Split Apks 형태의 앱이 %s로 추출되었습니다!</string>
     <string name="exporting">%s을(를) 추출하는 중</string>
     <string name="exporting_bundle">%s을 Split Apks의 형태로 추출하는 중</string>
