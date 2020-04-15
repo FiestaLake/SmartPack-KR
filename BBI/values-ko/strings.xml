@@ -13,7 +13,7 @@
     <string name="install_busybox_update">최신 버전의 비지박스 (v%s) 로 업데이트가 가능합니다! 지금 설치하시겠어요?</string>
     <string name="install_busybox_failed">유감스럽게도, Busybox Installer가 이 기기의 \'/system/xbin\' 폴더에 비지박스 바이너리를 설치하는 것을 실패했습니다!</string>
     <string name="install_busybox_success">비지박스 설치를 완료했습니다! 기기를 다시 시작하시겠어요?</string>
-    <string name="installing">비지박스 v%s를 설치하는 중</string>
+    <string name="installing">비지박스 (v%s) 를 설치하는 중</string>
     <string name="light">밝은</string>
     <string name="no_permission_message">이 기능은 저장공간 쓰기 권한 없이 작동하지 않습니다!</string>
     <string name="no_root_message">이 기능은 루트 권한 없이 작동하지 않습니다!</string>
@@ -30,5 +30,7 @@
     <string name="remove">제거</string>
     <string name="remove_busybox_message">\'/system/xbin\'에서 비지박스 (v%s) 를 제거하시겠어요?\n\n알아두기: 기기에서 이 앱을 사용하여 설치한 비지박스 바이너리만 지울 것입니다!</string>
     <string name="remove_busybox_invalid">이 앱에서 설치된 비지박스가 기기에서 발견되지 않았습니다!</string>
-    <string name="removing_busybox">비지박스 v%s를 제거하는 중</string>
+    <string name="removing_busybox">비지박스 (v%s) 를 제거하는 중</string>
+    <string name="remove_busybox_completed">비지박스 설치를 완료했습니다! 기기를 다시 시작하시겠어요?</string>
+    <string name="remove_busybox_failed">유감스럽게도, Busybox Installer가 이 기기의 \'/system/xbin\' 폴더에서 비지박스 바이너리를 제거하는 것을 실패했습니다!</string>
 </resources>
