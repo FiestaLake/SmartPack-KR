@@ -31,6 +31,6 @@
     <string name="remove_busybox_message">\'/system/xbin\'에서 비지박스 (v%s) 를 제거하시겠어요?\n\n알아두기: 기기에서 이 앱을 사용하여 설치한 비지박스 바이너리만 지울 것입니다!</string>
     <string name="remove_busybox_invalid">이 앱에서 설치된 비지박스가 기기에서 발견되지 않았습니다!</string>
     <string name="removing_busybox">비지박스 (v%s) 를 제거하는 중</string>
-    <string name="remove_busybox_completed">비지박스 설치를 완료했습니다! 기기를 다시 시작하시겠어요?</string>
+    <string name="remove_busybox_completed">비지박스 제거를 완료했습니다! 기기를 다시 시작하시겠어요?</string>
     <string name="remove_busybox_failed">유감스럽게도, Busybox Installer가 이 기기의 \'/system/xbin\' 폴더에서 비지박스 바이너리를 제거하는 것을 실패했습니다!</string>
 </resources>
