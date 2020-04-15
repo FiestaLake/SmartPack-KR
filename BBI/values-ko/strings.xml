@@ -24,6 +24,6 @@
     <string name="switch_theme">%s 테마를 적용하는 중!</string>    
     <string name="update">업데이트</string>
     <string name="update_busybox">비지박스 업데이트 가능!</string>
-    <string name="updated_message">축하합니다! 최신 버전을 사용하고 있습니다!</string>
+    <string name="updated_message">최신 버전의 비지박스 사용 중!</string>
     <string name="upsupported">지원되지 않는 아키택처!</string>
 </resources>
