@@ -27,4 +27,7 @@
     <string name="update_busybox">비지박스 업데이트 가능!</string>
     <string name="updated_message">최신 버전의 비지박스 사용 중!</string>
     <string name="upsupported">지원되지 않는 아키택처!</string>
+    <string name="remove">제거</string>
+    <string name="remove_busybox_message">\'/system/xbin\'에서 비지박스 (v%s) 를 제거하시겠어요?\n\n알아두기: 기기에서 이 앱을 사용하여 설치한 비지박스 바이너리만 지울 것입니다!</string>
+    <string name="remove_busybox_invalid">이 앱에서 설치된 비지박스가 기기에서 발견되지 않았습니다!</string>
 </resources>
