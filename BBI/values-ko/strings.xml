@@ -1,5 +1,7 @@
+​<?​xml​ version​=​"​1.0​"​ encoding​=​"​utf-8​"​?>
 <resources>
-    <!--Author: SmgKhOaRn <smgkhoarn@protonmail.com>-->
+    
+    <!--Author: SmgKhOaRn <SmgKhOaRn@protonmail.com>-->
 
     <string name="about">다양한 안드로이드 아키텍처 (ARM/ARM64/x86) 를 위한 원클릭 비지박스 설치기.\n\n&#169;<b>sunilpaulmathew</b>\n\n<b>도움을 주신 분들</b>\n<b><i>https://busybox.net/</i></b> - 비지박스 바이너리\n<b><i>Grarak</i></b> - 코드 기반\n<b><i>SmgKhOaRn</i></b> - 한국어 번역\n<b><i>sajid_islam</i></b> - 앱 아이콘</string>
     <string name="cancel">취소</string>
@@ -33,4 +35,6 @@
     <string name="update_busybox">비지박스 업데이트 가능!</string>
     <string name="updated_message">최신 버전의 비지박스 사용 중!</string>
     <string name="upsupported">지원되지 않는 아키택처!</string>
+    <string name="list_applets">애플릿 종류</string>
+    <string name="list_applets_summary">다음과 같은 애플릿들이 이 패키지에 포함되어 있습니다!\n\n - %s</string>
 </resources>
