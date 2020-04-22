@@ -8,7 +8,7 @@
     <string name="apply_question">%s을(를) 적용하시겠어요?</string>
     <string name="applying_profile">%s을 적용하는 중!</string>
     <string name="auto_dimming">자동 디밍</string>
-    <string name="auto_dimming_summary">자동으로 설정한 시간에 따라 디밍 정도를 조절합니다.</string>
+    <string name="auto_dimming_summary">자동으로 설정한 시간에 따라 밝기를 조절합니다.</string>
     <string name="auto_dimming_schedule">자동 디밍 스케줄</string>
     <string name="backlight_range">백라이트 범위</string>
     <string name="blue">파란색</string>
