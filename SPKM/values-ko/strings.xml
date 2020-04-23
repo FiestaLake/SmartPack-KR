@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <!--Author: SmgKhOaRn <smgkhoarn@protonmail.com>-->
-    
+    <!--Author: SmgKhOaRn <smgkhoarn@gmail.com>-->
+
     <string name="checking_info">정보를 확인하는 중 … </string>
     <string name="checking_root">루트 권한을 확인하는 중 … </string>
     <string name="searching_busybox">비지박스를 확인하는 중 … </string>
@@ -39,7 +39,7 @@
 
     <!-- Permissions Denied -->
     <string name="permission_denied_write_storage">저장공간 쓰기 권한이 거부되었습니다!</string>
-   
+
     <!-- Editor -->
     <string name="save">저장</string>
 
@@ -79,7 +79,7 @@
     <string name="settings">설정</string>
     <string name="about">정보</string>
     <string name="contributors">도움을 주신 분들</string>
-    
+
     <!-- Overall -->
     <string name="overall_summary">SmartPack-Kernel Manager의 기본 페이지에 오신 것을 환영합니다. 이 페이지는 여러분의 기기의 기본적인 정보를 제공합니다. 커널 트윅 설정들은 각각의 페이지에서 설정할 수 있습니다.</string>
     <string name="offline">꺼짐</string>
@@ -91,8 +91,8 @@
     <string name="restore_sure_message">정말로 %s을 복구하시겠어요?</string>
     <string name="error_frequencies">클럭을 불러오는 데 실패했습니다</string>
     <string name="unused_frequencies">사용되지 않은 클럭들</string>
-    
-   <!-- Device -->
+
+    <!-- Device -->
     <string name="processor">프로세서</string>
     <string name="vendor">제조사</string>
     <string name="features">기능</string>
@@ -107,7 +107,7 @@
     <string name="hardware">하드웨어</string>
     <string name="architecture">아키텍처</string>
     <string name="treble_status">Project Treble 여부</string>
- 
+
     <!-- Inputs -->
     <string name="bus">버스</string>
     <string name="product">제품</string>
@@ -204,15 +204,15 @@
     <string name="max_cpu_online_screen_off_summary">화면이 꺼졌을 떄의 CPU의 최대 개수를 설정합니다.</string>
     <string name="suspend_defer_time">대기 지연 시간</string>
     <string name="defer_sampling">샘플링 지연</string>
-    <string name="boost_lock_duration">잠금 지속기간 증가</string> 
-    <string name="boost_lock_duration_summary">CPU가 가속화될 최소 간격을 설정합니다.</string> 
-    <string name="down_lock_duration">잠금 지속기간 감소</string> 
+    <string name="boost_lock_duration">잠금 지속기간 증가</string>
+    <string name="boost_lock_duration_summary">CPU가 가속화될 최소 간격을 설정합니다.</string>
+    <string name="down_lock_duration">잠금 지속기간 감소</string>
     <string name="down_lock_duration_summary">CPU가 활성화 상태를 유지할 최소 간격을 설정합니다.</string>
     <string name="lazyplug_summary">arter97님이 개발한 MPDecision을 대체하는 핫플러그입니다.</string>
     <string name="possible_cpu_cores_summary">lazyplug가 사용할 수 있는 가능한 CPU 코어들을 설정합니다.</string>
-    <string name="blu_plug_summary">'Code_Blue'팀이 개발한 MPDecision을 대체하는 핫플러그입니다.</string>
+    <string name="blu_plug_summary">\'Code_Blue\'팀이 개발한 MPDecision을 대체하는 핫플러그입니다.</string>
     <string name="powersaver_mode">전원 절약 모드</string>
-    <string name="powersaver_mode_summary">@1728MHz 클럭으로 고정한 최대 활성화 가능 CPU 코어 1개로 설정합니다.</string>
+    <string name="powersaver_mode_summary">1728MHz 클럭으로 고정한 최대 활성화 가능 CPU 코어 1개로 설정합니다.</string>
     <string name="up_threshold">한계값 증가</string>
     <string name="up_threshold_summary">이 한계값을 넘으면 드라이버가 코어를 하나 더 활성화시킬 것입니다.</string>
     <string name="up_timer_cnt">증가 타이머 조절</string>
@@ -252,7 +252,6 @@
     <string name="sampling_rate">샘플링 레이트</string>
     <string name="cpu_down_rate">CPU 감소 속도</string>
     <string name="cpu_up_rate">CPU 증가 속도</string>
-    <string name="io_is_busy_summary">핫플러그의 I/O 시간을 CPU 시간으로 인식하게 설정합니다.</string>
     <string name="msm_mpdecision_hotplug">MSM MPDecision 핫플러그</string>
     <string name="mb_hotplug_summary">show-p1984님이 개발한 MPDecision을 대체하는 핫플러그입니다.</string>
     <string name="idle_frequency">유휴 클럭</string>
@@ -267,8 +266,8 @@
     <string name="autosmp_summary">mrg666님이 개발한 퀄컴 기기들을 위한 올인원 핫플러그입니다.</string>
     <string name="downrate_limits">감소 속도 제한</string>
     <string name="uprate_limits">증가 속도 제한</string>
-    <string name="cycle_down">감소 사이클</string> 
-    <string name="cycle_down_summary">마지막 핫플러그 활동 이후에 다른 코어를 비활성하기 위해 대기해야 하는 순환 주기를 설정합니다.</string> 
+    <string name="cycle_down">감소 사이클</string>
+    <string name="cycle_down_summary">마지막 핫플러그 활동 이후에 다른 코어를 비활성하기 위해 대기해야 하는 순환 주기를 설정합니다.</string>
     <string name="cycle_up">증가 사이클</string>
     <string name="cycle_up_summary">마지막 핫플러그 활동 이후에 다른 코어를 활성하기 위해 대기해야 하는 순환 주기를 설정합니다.</string>
     <string name="core_control">코어 조절</string>
@@ -303,7 +302,7 @@
     <string name="nr_max_cpu">최대 CPU 활성화 개수</string>
     <string name="nr_min_cpu">최소 CPU 활성화 개수</string>
     <string name="adv_sett">고급 설정</string>
-   
+
     <!-- CPU Voltage -->
     <string name="global_offset">전역 오프셋</string>
     <string name="override_vmin">최소 전압 덮어쓰기</string>
@@ -394,14 +393,14 @@
     <string name="freq_control_mask_summary">코어가 클럭 조절에 사용될 수 있는지의 여부를 확인하기 위해 사용되는 CPU 마스크를 설정합니다.</string>
     <string name="freq_mit_control_mask">클럭 완화 조절 마스크</string>
     <string name="freq_mit_control_mask_summary">KTM이 코어에 대해 긴급 클럭 완화를 할 수 있는지의 여부를 확인하기 위해 사용되는 클럭 완화 bitmask를 설정합니다.</string>
-       
+
     <!-- Battery -->
     <string name="capacity">용량</string>
     <string name="blx_summary">배터리가 0과 100 사이의 값을 가로지르며 충전이 완료될 용량을 제한합니다.</string>
     <string name="charging_enable">충전 활성화</string>
     <string name="charging_enable_summary">주의! 만약 이 설정이 비활성된다면 충전이 즉시 멈출 것입니다.</string>
     <string name="thunder_charge_summary">varun.chitre15님이 개발한 Thunder Charge를 활성화합니다.</string>
-    
+
     <!-- Advanced Charge Control Interface -->
     <string name="acci">고급 충전 설정 인터페이스</string>
     <string name="fast_charge">고속 충전</string>
@@ -419,7 +418,7 @@
     <string name="screen_limit">화면 켜짐 전압 제한</string>
     <string name="screen_limit_summary">화면 켜짐 전압 제한을 활성화합니다.</string>
     <string name="stockchargelogic">순정 충전 전압으로 설정하려면 0으로 두세요.</string>
-    
+
     <!-- Sound -->
     <string name="sound_control">소리 조절</string>
     <string name="speaker_leakage">스피커 드라이버 누수</string>
@@ -436,7 +435,7 @@
     <string name="lock_mic_gain">마이크 증폭 잠금</string>
     <string name="lock_mic_gain_summary">마이크 증폭에 대한 변경을 방지합니다.</string>
     <string name="per_channel_controls">채널별 조절</string>
-    
+
     <!-- Screen -->
     <string name="screen_color">화면 색상</string>
     <string name="red">빨간색</string>
@@ -484,7 +483,7 @@
     <string name="glove_mode">민감도 증가</string>
     <string name="glove_mode_summary">이것을 활성화하면 장갑을 낀 상태에서 휴대폰을 사용하는 것을 가능하게 할 것입니다.</string>
 
-   <!-- K-lapse -->
+    <!-- K-lapse -->
     <string name="klapse_summary">선호하는 tanish2k09님이 개발한 시간이나 밝기를 기반으로 RGB을 변화시키는 RGB 스케일링 모듈, K-lapse의 모드를 선택하세요. K-lapse의 값들을 조절하기 위해 이것은 꺼져있으면 안됩니다.</string>
     <string name="klapse_off">꺼짐</string>
     <string name="export_settings">K-lapse 설정 추출하기</string>
@@ -518,10 +517,8 @@
     <string name="full">전체</string>
     <string name="bottom_half">중앙보다 아래</string>
     <string name="top_half">중앙보다 위</string>
-    <string name="half">반</string>
     <string name="s2w">밀어서 화면 켜기</string>
     <string name="s2w_summary">화면을 밀어서 장치의 화면을 켭니다.</string>
-    <string name="s2w_s2s">밀어서 화면 켜기 + 밀어서 화면 끄기</string>
     <string name="s2s">밀어서 화면 끄기</string>
     <string name="s2w_right">오른쪽을 밀어서 화면 켜기</string>
     <string name="s2w_left">왼쪽을 밀어서 화면 켜기</string>
@@ -557,7 +554,6 @@
     <string name="timeout_summary">화면이 꺼진 후 켜짐 제어를 비활성화시키는 시간을 설정합니다.</string>
     <string name="power_key_suspend">전원 키 일시중지</string>
     <string name="power_key_suspend_summary">이 기능을 사용하면 전원 키로 화면을 끌 때 화면을 켜는 여러 가지 방법들을 사용할 수 없게 됩니다.</string>
-    <string name="area">영역</string>
     <string name="width">너비</string>
     <string name="height">높이</string>
     <string name="vibration">진동</string>
@@ -620,7 +616,7 @@
     <string name="nomerges">No-Merges</string>
     <string name="nomerges_summary">이것은 사용자가 블럭 레이어에서 IO 병합 요청과 관련된 논리를 보는 것을 비활성화합니다.</string>
     <string name="nr_requests">NR 요청</string>
-    <string name="nr_requests_summary">이것은 얼마나 많은 요청들이 읽거나 쓰는 요청들을 위해 블럭 레이어에서 할당될지 조절합니다./string>
+    <string name="nr_requests_summary">이것은 얼마나 많은 요청들이 읽거나 쓰는 요청들을 위해 블럭 레이어에서 할당될지 조절합니다.</string>
 
     <!-- Kernel Samepage Merging -->
     <string name="full_scans">전체 스캔</string>
@@ -883,14 +879,14 @@
     <string name="acquiring">업데이트 정보를 불러오는 중</string>
     <string name="donations">기부</string>
     <string name="donations_summary">개발자에게 기부하기</string>
-    <string name="download">다운로드</string> 
+    <string name="download">다운로드</string>
     <string name="download_completed">%s은(는) 성공적으로 다운로드를 완료했습니다. 파일을 설치하고 싶으신가요?</string>
     <string name="downloading_update">%s을(를) 받는 중</string>
     <string name="get_it_summary">최신 커널 받기</string>
     <string name="kernel_current">현제 버전</string>
     <string name="kernel_latest">최신 버전</string>
     <string name="kernel_information">커널 정보</string>
-    <string name="update_channel">업데이트 채널 Url/string>
+    <string name="update_channel">업데이트 채널 Url</string>
     <string name="update_channel_create">업데이트 채널 만들기</string>
     <string name="update_channel_empty">업데이트 채널 정보를 정리합니다!</string>
     <string name="update_channel_info">위에 있는 업데이트 채널에 알맞은 json 파일을 추가함으로써, 커널 다운로드, 자동 설치 (모든 기기들을 지원하지는 않음) 기능들을 사용할 수 있습니다. 여러분이 좋아하는 커널 개발자에게 이 기능에 대한 지원 추가를 요청해보세요. 다운된 커널은 \'%s\'에 저장될 것입니다.\n\n팁!: franciscofranco의 (\u2665) \'FK-Kernel Manager\'을 위해 제작된 json 파일도 추가할 수 있습니다. 정상적으로 잘 작동될 것입니다.\n\n더 많은 도움이 필요하신가요? 여기를 누르세요!</string>
@@ -1033,10 +1029,10 @@
     <string name="change_logs_summary">변경 사항을 확인합니다.</string>
     <string name="playstore">플레이 스토어</string>
     <string name="playstore_summary">플레이 스토어 페이지를 방문하세요.</string>
-    <string name="donate_me">저에게 기부하기</string>
+    <string name="donate_me">저에게 기부하기</string>
     <string name="donate_me_summary">제 프로젝트를 기부로 감사를 표하고 싶나요? 여기를 누르세요.</string>
-    <string name="donate_me_message">\n만약 여러분이 제 작업을 좋아하신다면, 기부해주시는 건 어떤가요? 프로젝트 개발에 큰 도움이 됩니다. 물론 필수는 아니에요.\n</string>
-    <string name="donate_me_playstore">\n알아두기: PayPal, 혹은 플레이 스토어에 있는 SmartPack Donation 앱을 통해 기부할 수 있습니다. 게다가, 기부 패키지를 구매하는 것은 이 앱의 숨겨진 기능들을 해제합니다.\n</string>
+    <string name="donate_me_message">\n만약 여러분이 제 작업을 좋아하신다면, 기부해주시는 건 어떤가요? 프로젝트 개발에 큰 도움이 됩니다. 물론 필수는 아니에요.\n</string>
+    <string name="donate_me_playstore">\n알아두기: PayPal, 혹은 플레이 스토어에 있는 SmartPack Donation 앱을 통해 기부할 수 있습니다. 게다가, 기부 패키지를 구매하는 것은 이 앱의 숨겨진 기능들을 해제합니다.\n</string>
     <string name="purchase_app">기부 앱</string>
     <string name="paypal_donation">PayPal</string>
     <string name="auto_update_check">자동 업데이트 확인</string>
@@ -1057,7 +1053,7 @@
 
     <!-- FAQ -->
     <string name="how_different">Q1. 이 앱은 Garak님의 공식 Kernel Adiutor과 어떻게 다른가요?</string>
-    <string name="how_different_summary">A1. 이 앱은 다양한 커널 개발자들의 필요에 의해 많이 수정되었습니다.\n - 안드로이드 OS를 실행한 상태에서 리커버리 zip 파일들을 설치하기 위한 설정.\n - 간단하면서도 사용자 친화적인 커스텀 컨트롤러.\n - 쉘 스크립트들을 추가하고, 불러오고, 수정하고, 실행하는 스크립트 매니저.\n - CPU 입력 가속화, 다이내믹 Stune 가속화, K-lapse, Boeffla 기본 웨이크락 차단 시스템과 같은 기능들 설정.\n - 채널별 조절을 포함한 Boeffla와 Flar 소리 엔진.\n - 그리고 더 많은 기능들.</string>
+    <string name="how_different_summary">A1. 이 앱은 다양한 커널 개발자들의 필요에 의해 많이 수정되었습니다.\n - 안드로이드 OS를 실행한 상태에서 리커버리 zip 파일들을 설치하기 위한 설정.\n - 간단하면서도 사용자 친화적인 커스텀 컨트롤러.\n - 쉘 스크립트들을 추가하고, 불러오고, 수정하고, 실행하는 스크립트 매니저.\n - CPU 입력 가속화, 다이내믹 Stune 가속화, K-lapse, Boeffla 기본 웨이크락 차단 시스템과 같은 기능들 설정.\n - 채널별 조절을 포함한 Boeffla와 Flar 소리 엔진.\n - 그리고 더 많은 기능들.</string>
     <string name="can_i_use">Q2. 이 앱을 커스텀 커널들을 트윅하기 위해 사용할 수 있나요?</string>
     <string name="can_i_use_summary">A2. 물론입니다! 이 앱은 루트 권한이 부여되어 있다면 그 어떤 커널도 사용할 수 있습니다.</string>
     <string name="cpu_freq_not_sticking">Q3. 왜 제가 지정한 CPU 클럭이 반영되지 않나요?</string>
