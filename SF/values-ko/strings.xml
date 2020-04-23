@@ -111,7 +111,7 @@
     <string name="update_available">업데이트 가능!\nv</string>
     <string name="update_available_summary">%s\n\n**주의: 앱을 다운로드하고 수동으로 업데이트하세요!**</string>
     <string name="update_channel">업데이트 채널 Url</string>
-    <string name="update_channel_empty">업데이트 채널 정보를 정리합니다!</string>
+    <string name="update_channel_empty">업데이트 채널 정보를 정리하는 중!</string>
     <string name="update_channel_info">위에 있는 업데이트 채널에 알맞은 json 파일을 추가함으로써, 커널 다운로드, 자동 설치 (모든 기기들을 지원하지는 않음) 기능들을 사용할 수 있습니다. 여러분이 좋아하는 커널 개발자에게 이 기능에 대한 지원 추가를 요청해보세요. 다운된 커널은 \'%s\'에 저장될 것입니다.\n\n팁!: franciscofranco의 (\u2665) \'FK-Kernel Manager\'을 위해 제작된 json 파일도 추가할 수 있습니다. 정상적으로 잘 작동될 것입니다.\n\n더 많은 도움이 필요하신가요? 여기를 누르세요!</string>
     <string name="update_channel_invalid">잘못된 URL을 입력했습니다!</string>
     <string name="update_channel_summary">여기에-url을-입력하세요</string>
