@@ -1,7 +1,7 @@
 ​<?​xml​ version​=​"​1.0​"​ encoding​=​"​utf-8​"​?>
 <resources>
     
-    <!--Author: SmgKhOaRn <SmgKhOaRn@protonmail.com>-->
+    <!--Author: SmgKhOaRn <smgkhoarn@gmail.com>-->
 
     <string name="about">다양한 안드로이드 아키텍처 (ARM/ARM64/x86) 를 위한 원클릭 비지박스 설치기.\n\n&#169;<b>sunilpaulmathew</b>\n\n<b>도움을 주신 분들</b>\n<b><i>https://busybox.net/</i></b> - 비지박스 바이너리\n<b><i>Grarak</i></b> - 코드 기여\n<b><i>Lennoard</i></b> - 코드 기여/포르투갈어(브라질) 번역\n<b><i>SmgKhOaRn</i></b> - 한국어 번역\n<b><i>Mikesew1320</i></b> - 에티오피아어/러시아어 번역\n<b><i>sajid_islam</i></b> - 앱 아이콘</string>
     <string name="cancel">취소</string>
@@ -17,6 +17,8 @@
     <string name="install_busybox_success">비지박스 설치를 완료했습니다! 기기를 다시 시작하시겠어요?</string>
     <string name="installing">비지박스 (v%s) 를 설치하는 중</string>
     <string name="light">밝은</string>
+    <string name="list_applets">애플릿 종류</string>
+    <string name="list_applets_summary">다음과 같은 애플릿들이 이 패키지에 포함되어 있습니다!\n\n - %s</string>
     <string name="no_permission_message">이 기능은 저장공간 쓰기 권한 없이 작동하지 않습니다!</string>
     <string name="no_root_message">이 기능은 루트 권한 없이 작동하지 않습니다!</string>
     <string name="press_back">나가려면 뒤로가기 버튼을 다시 누르세요</string>
@@ -35,6 +37,4 @@
     <string name="update_busybox">비지박스 업데이트 가능!</string>
     <string name="updated_message">최신 버전의 비지박스 사용 중!</string>
     <string name="upsupported">지원되지 않는 아키택처!</string>
-    <string name="list_applets">애플릿 종류</string>
-    <string name="list_applets_summary">다음과 같은 애플릿들이 이 패키지에 포함되어 있습니다!\n\n - %s</string>
 </resources>
