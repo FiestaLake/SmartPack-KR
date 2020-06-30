@@ -16,7 +16,7 @@
     <string name="data_lose_warning">이 페이지에서 수정한 사항들이 없어질 것입니다! 계속하시겠어요?</string>
     <string name="description">설명</string>
     <string name="description_summary">여러분의 커널에 대한 짧은 설명을 여기에 적으세요 (한줄로)!</string>
-    <string name="description_unknown">Description for this profile is not provided by the developer.이 프로필에 대한 설명은 커널 개발자가 제공하지 않았습니다.</string>
+    <string name="description_unknown">이 프로필에 대한 설명은 커널 개발자가 제공하지 않았습니다.</string>
     <string name="default_profile">기본 프로필 (필수)</string>
     <string name="default_profile_summary">구체적인 기본 프로필 이름 (\'.sh\' 확장자를 포함해서)을 여기에 적으세요!</string>
     <string name="developer_credits">개발자 크레딧</string>
@@ -32,7 +32,7 @@
     <string name="failed_message">\'%s\'은(는) 지원되지 않는 코드입니다! 다른 코드를 시도해보세요!</string>
     <string name="kernel_about">커널 정보</string>
     <string name="kernel_support">커널에 Kernel Profiler 지원 추가</string>
-    <string name="kernel_support_summary">Kernel Profiler expects a configuration file (<b><i>kernelprofiler.json</i></b>) and one or more \'<b><i>profiles</i></b>\' (basically shell scripts) in certain specific structure placed inside <b>\'<i>/data/kernel_profiler</i>\'</b>. Please check \'<b>Settings  -> Developer Tools</b>\' for more information.</string>
+    <string name="kernel_support_summary">Kernel Profiler은(는) 구성 파일을 필요료 합니다 (<b><i>kernelprofiler.json</i></b>)와 하나 이상의 \'<b><i>프로필</i></b>\' (쉘 스크립트)이(가) 특정한 경로 <b>\'<i>/data/kernel_profiler</i>\'</b>에 있어야 합니다. \'<b>설정  -> 개발자 도구</b>\'을(를) 확인해주세요.</string>
     <string name="more">더보기</string>
     <string name="name_empty">프로필은 이름은 비어있으면 안됩니다!</string>
     <string name="no_internet">인터넷 연결을 확인해주세요!</string>
@@ -51,7 +51,7 @@
     <string name="profile_description_summary">여기에 설명을 추가하세요!</string>
     <string name="profile_details">프로필 스크립트</string>
     <string name="profile_details_empty">프로필 스크립트는 비어있으면 안됩니다!</string>
-    <string name="profile_details_summary">여기에 스크립트(.sh)를 추가하세요!</string>
+    <string name="profile_details_summary">여기에 쉘 스크립트(.sh)를 추가하세요!</string>
     <string name="profile_exists">%s은(는) 이미 존재합니다! 다른 이름을 사용해주세요.</string>
     <string name="report_issue">문제 제보하기</string>
     <string name="save_config_title">이 구성을 저장합니다. 계속하시겠어요?</string>
@@ -61,7 +61,7 @@
     <string name="storage_access_denied">저장공간 쓰기 권한이 거부되었습니다!</string>
     <string name="support">지원 받기</string>
     <string name="support_developer">개발자 지원하기!</string>
-    <string name="support_developer_message">If you like to appreciate my work, please consider buying SmartPack Donation Package from PlayStore as it is really helpful to continue my projects more active, although it is not at all necessary.</string>
+    <string name="support_developer_message">제 프로젝트를 지원하고 싶다면, 플레이 스토어에 있는 SmartPack Donation Package을 구매하는 것을 고려해보세요. 제 프로젝트들을 더 활발히 이어나갈 때 매우 큰 도움이 됩니다. 물론 필수는 아닙니다.</string>
     <string name="support_summary">여기에 지원 페이지의 URL을 추가하세요!</string>
     <string name="success_message">축하합니다! \'%s\'은(는) 지원되는 스크립트입니다!</string>
     <string name="test">테스트</string>
@@ -70,12 +70,12 @@
     <string name="title">제목 (필수)</string>
     <string name="title_check">여러분이 현제 커널의 구성 파일을 준비하고 있을 때에만 이 테스트를 실행하세요!</string>
     <string name="title_empty_message">제목은 비어있으면 안됩니다!</string>
-    <string name="title_summary">Add your title here! (Important: Title should contain a matching word from \'uname -a\'. Click the button next to this text for checking!)</string>
+    <string name="title_summary">여기에 제목을 추가하세요! (반드시 알아두기: 제목은 \'uname -a\'에 나오는 단어들을 포함해야 합니다! 이 글 옆에 있는 버튼을 눌러 확인하세요.)</string>
     <string name="tools_developer">개발자 도구</string>
     <string name="unsupported">커널 지원 없음</string>
-    <string name="unsupported_help_message">Please Note: This app is also equipped with necessary tools to create its support files. Please check \'Settings  -> Developer Tools\' for more information.</string>
-    <string name="unsupported_message">Please ask your favourite kernel developer to add support to this app!</string>
-    <string name="unsupported_summary">It seems like your kernel doesn\'t have the necessary configuration file/profiles to support this app.</string>
+    <string name="unsupported_help_message">알아두기: 이 앱은 이러한 파일들을 만들 수 있는 개발자 도구를 지원합니다. \'<b>설정  -> 개발자 도구</b>\'을(를) 확인해주세요.</string>
+    <string name="unsupported_message">여러분이 좋아하는 커널 개발자에게 이 앱의 지원을 추가하는 것을 요청해보세요!</string>
+    <string name="unsupported_summary">여러분이 사용중인 커널은 이 앱을 지원하기 위한 필수 구성 파일/프로필들을 가지고 있지 않습니다.</string>
     <string name="wrong_profile">%s은(는) 적절한 프로필 파일이 아닙니다!</string>
     <string name="yes">예</string>
 </resources>
