@@ -99,7 +99,7 @@
     <string name="result">결과: %s</string>
     <string name="session_id">세션명: %s</string>
     <string name="share">공유</string>
-    <string name="shared_by">%s/Package Manager에서 공유함</string>
+    <string name="shared_by">%s/Package Manager에서 공유함.</string>
     <string name="share_message">Package Manager %s은(는) 아래에서 다운받을 수 있습니다.\n플레이 스토어 (Play Store): https://play.google.com/store/apps/details?id=com.smartpack.packagemanager\n깃허브 (GitHub): https://github.com/SmartPack/PackageManager</string>
     <string name="share_with">공유하기</string>
     <string name="sort_by">앱 정렬</string>
@@ -110,8 +110,8 @@
     <string name="system">시스템 앱</string>
     <string name="turn_on_off">활성화/비활성화</string>
     <string name="uninstall">제거</string>
-    <string name="uninstall_failed">Package Manager가 %s를 제가하는 데 실패했습니다!</string>
-    <string name="uninstall_nope">죄송합니다! 여기서 제거를 할 수 없습니다!</string>
+    <string name="uninstall_failed">Package Manager이(가) %s를 제거하는 데 실패했습니다!</string>
+    <string name="uninstall_nope">죄송합니다! 이 앱은 제거할 수 없습니다!</string>
     <string name="uninstall_summary">%s을(를) 제거하는 중...</string>
     <string name="uninstall_title">%s을(를) 제거하시겠어요?</string>
     <string name="uninstall_warning">알아두기: 시스템 앱을 지우는 것은 위험합니다!\n\n *** <b>위험을 감수하고 사용하세요 (본인 책임입니다)</b> ***\n</string>
