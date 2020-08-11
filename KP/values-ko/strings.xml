@@ -51,7 +51,7 @@
     <string name="on_boot">설정을 적용하는 중...</string>
     <string name="on_boot_conformation">%s(은)는 이미 기본 프로필로 선택되어 있습니다!</string>
     <string name="on_boot_message">%s(이)가 기본 프로필로 선택되었습니다!</string>
-    <string name="on_boot_summary">부팅시 사용하는 프로필(%s)을 적용하는 중!</string>
+    <string name="on_boot_summary">부팅시 사용하는 프로필 (%s) 을 적용하는 중...</string>
     <string name="options">설정</string>
     <string name="press_back">나가려면 뒤로가기 버튼을 다시 누르세요</string>
     <string name="profile_applied_success">%s(이)가 성공적으로 적용되었습니다!</string>
@@ -73,7 +73,7 @@
     <string name="storage_access_denied">저장공간 쓰기 권한이 거부되었습니다!</string>
     <string name="support">지원 받기</string>
     <string name="support_developer">개발자 지원하기!</string>
-    <string name="support_developer_message">제 프로젝트를 지원하고 싶다면, 플레이 스토어에 있는 SmartPack Donation Package 앱을 구매하는 것을 고려해보세요. 제 프로젝트들을 더 활발히 이어나갈 때 매우 큰 도움이 됩니다. 물론 필수는 아닙니다.</string>
+    <string name="support_developer_message">제 프로젝트를 후원하고 싶다면, 플레이 스토어 (Play Store)에 있는 SmartPack Donation Package 앱을 구매하는 것을 고려해보세요. 제 프로젝트들을 더 활발히 이어나갈 때 매우 큰 도움이 됩니다. 물론 필수는 아닙니다.</string>
     <string name="support_summary">여기에 지원 페이지의 URL을 추가하세요!</string>
     <string name="success_message">축하합니다! \'%s\'은(는) 지원되는 스크립트입니다!</string>
     <string name="test">테스트</string>

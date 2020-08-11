@@ -99,8 +99,8 @@
     <string name="result">결과: %s</string>
     <string name="session_id">세션명: %s</string>
     <string name="share">공유</string>
-    <string name="shared_by">%s/Package Manager에서 공유함.</string>
-    <string name="share_message">Package Manager %s은(는) 아래에서 다운받을 수 있습니다.\n플레이 스토어 (Play Store): https://play.google.com/store/apps/details?id=com.smartpack.packagemanager\n깃허브 (GitHub): https://github.com/SmartPack/PackageManager</string>
+    <string name="shared_by">%s/Package Manager에서 공유</string>
+    <string name="share_message">Package Manager %s은(는) 아래에서 다운받을 수 있습니다.\n플레이 스토어 (Play Store): https://play.google.com/store/apps/details?id=com.smartpack.packagemanager\n깃허브 (GitHub): https://github.com/SmartPack/PackageManager/releases</string>
     <string name="share_with">공유하기</string>
     <string name="sort_by">앱 정렬</string>
     <string name="source_code">소스 코드</string>

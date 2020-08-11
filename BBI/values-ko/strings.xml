@@ -47,7 +47,7 @@
     <string name="share_app">Busybox Installer %s은(는) 아래에서 다운받을 수 있습니다.\n플레이 스토어 (Play Store):https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller\n깃허브 (GitHub): https://github.com/SmartPack/BusyBox-Installer/releases</string>
     <string name="source_code">소스 코드</string>
     <string name="support_developer">개발자 후원하기</string>
-    <string name="support_developer_message">제 프로젝트를 후원하고 싶다면, 플레이 스토어에 있는 SmartPack Donation Package을 구매하는 것을 고려해보세요. 제 프로젝트들을 더 활발히 이어나갈 때 매우 큰 도움이 됩니다. 물론 필수는 아닙니다.</string>
+    <string name="support_developer_message">제 프로젝트를 후원하고 싶다면, 플레이 스토어 (Play Store)에 있는 SmartPack Donation Package 앱을 구매하는 것을 고려해보세요. 제 프로젝트들을 더 활발히 이어나갈 때 매우 큰 도움이 됩니다. 물론 필수는 아닙니다.</string>
     <string name="support_group">지원 받기</string>
     <string name="switch_theme">%s를 적용하는 중...</string>    
     <string name="update">업데이트</string>
