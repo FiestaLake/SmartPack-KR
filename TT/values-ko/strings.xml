@@ -1,6 +1,5 @@
-﻿<resources
-	xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
- <!--Author: FiestaLake <FiestaLake@protonmail.com>-->
+﻿<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+	<!--Author: FiestaLake <FiestaLake@protonmail.com>-->
 
 	<string name="app_name" translatable="false">The Translator</string>
 	<string name="about">정보</string>
