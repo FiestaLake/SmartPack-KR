@@ -12,6 +12,7 @@ SmartPack 앱들을 위한 한국어 번역 프로젝트입니다.</br>
 <b>Screen Color Control GitHub</b>: https://github.com/SmartPack/ScreenColorControl/</br>
 <b>BusyBox Installer</b>: https://github.com/SmartPack/BusyBox-Installer/</br>
 <b>Kernel Profiler</b>: https://github.com/SmartPack/KernelProfiler/</br>
+<b>The Translator</b>: https://github.com/sunilpaulmathew/Translator/</br>
 <b>Telegram group</b>: https://t.me/smartpack_kmanager/</br>
 
 <b>All credits go to @sunilpaulmathew, the developer of SmartPack apps.</b>
