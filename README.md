@@ -9,7 +9,6 @@ SmartPack 앱들을 위한 한국어 번역 프로젝트입니다.</br>
 <b>Package Manager GitHub</b>: https://github.com/SmartPack/PackageManager/</br>
 <b>Smart Flasher GitHub</b>: https://github.com/SmartPack/SmartFlasher/</br>
 <b>Script Manager GitHub</b>: https://github.com/SmartPack/ScriptManager/</br>
-<b>Screen Color Control GitHub</b>: https://github.com/SmartPack/ScreenColorControl/</br>
 <b>BusyBox Installer</b>: https://github.com/SmartPack/BusyBox-Installer/</br>
 <b>Kernel Profiler</b>: https://github.com/SmartPack/KernelProfiler/</br>
 <b>The Translator</b>: https://github.com/sunilpaulmathew/Translator/</br>
